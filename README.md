@@ -22,4 +22,4 @@ I build distributed systems, internal platforms, and tooling. Currently explorin
 
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Ghostty](https://img.shields.io/badge/-👻_Ghostty-191724?style=flat-square)
+![Ghostty](https://img.shields.io/badge/-👻_Ghostty-1C1C1C?style=flat-square)
